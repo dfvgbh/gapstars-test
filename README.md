@@ -1,3 +1,7 @@
+## Prerequisites
+
+Installed Node.js version >=22.0.0
+
 ## Run Server
 
 ```bash
